@@ -1,0 +1,16 @@
+{
+  "name": "naran/naran-board",
+  "description": "워드프레스를 개발을 위한 심플한 보드.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "Naran\\Board\\": "src/"
+    },
+    "files": [
+      "src/Functions/Globals.php",
+      "src/Functions/Template.php",
+      "src/Functions/Utils.php"
+    ]
+  }
+}

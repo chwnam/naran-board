@@ -1,0 +1,13 @@
+.delete-board-link {
+    color: #a00;
+}
+
+.nrbrd-m0 {
+    margin: 0;
+}
+
+.human-time-diff {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    cursor: pointer;
+}

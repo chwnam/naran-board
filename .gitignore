@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+.htaccess
+.vscode
+
+/node_modules
+/vendor/*
+!/vendor/autoload.php
+!/vendor/composer
